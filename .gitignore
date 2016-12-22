@@ -1,0 +1,7 @@
+EasyNetQExample.Messages/bin/
+EasyNetQExample.Messages/obj/
+EasyNetQExample/bin/
+EasyNetQExample/obj/
+packages/
+EasyNetQExample.Consumer/bin/
+EasyNetQExample.Consumer/obj/
